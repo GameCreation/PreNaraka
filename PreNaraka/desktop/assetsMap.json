@@ -1,0 +1,8 @@
+{
+"data": {
+	"skin_ui": {
+		"class": "java.lang.String",
+		"value": "images/uiskin.json"
+	}
+}
+}
