@@ -24,8 +24,6 @@ import de.gamecreation.prenaraka.util.Constants;
 
 /**
  * load all Assets, load Assets listed in a File: assetsMap.json
- * 
- * @author timomorawitz
  *
  */
 public class Assets implements Disposable, AssetErrorListener {
@@ -80,7 +78,6 @@ public class Assets implements Disposable, AssetErrorListener {
 	/**
 	 * List of all FileExtensions handled in the AssetManager
 	 * 
-	 * @author timomorawitz
 	 *
 	 */
 	private enum Extensions {
